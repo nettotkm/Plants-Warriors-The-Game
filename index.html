@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Plant Warriors</title>
+</head>
+<body bgcolor="#FFEFDB">
+    <audio src="./som/The Complex.mp3"  autoplay loop>
+        <p>Seu navegador não suporta o elemento audio </p>
+        </audio>
+  <div class="points-panel">
+    <div class="points-total"><span id="points-value"></span> points</div>
+    <div id="points-bar"></div>
+  </div>
+
+  <div class="container">
+  <div class="game-name">
+    Plants Warriors!
+  </div>
+    <div class="game-intro">
+      <!-- <img src="./image/plant_mario2.gif" alt="" class="logo-img"> -->
+      <br>
+      <button id="start-button">Start Game</button>
+      <br>
+      <p>Use the numbers 1 to 5 to select the plant and the space key to shoot!</p>
+    </div>
+    <div class="end-game"> <img src="./image/" alt=""></div>
+    <canvas id="game" width="1000" height="500" sstyle="background: url('./image/Frontyard.jpg')"></canvas>
+  </div>
+  <script src="./game.js"></script>
+  <link rel="stylesheet" href="./game.css">
+</body>
+</html>
