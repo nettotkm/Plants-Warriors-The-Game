@@ -10,6 +10,7 @@ The zombies walk straight towards the plants, and increase speed when the player
 Some problems may arise, after all this is the Beta version and you jockey was chosen to face the zombies.
 So be quick on the keyboard and KILL THEM ALL.
 Enjoy the Game !!
+Play https://nettotkm.github.io/-Plants-Warriors/
 
 <!-- O jogo foi baseado no famoso game Plants Vs Zombies. -->
 <!-- <!-- O jogo testa as habilidades dos jogadores, onde o jogador escolhe qual planta deve atirar para matar os zumbis. --> -->
