@@ -1,4 +1,6 @@
-The game was based on the famous game Plants Vs Zombies.
+# PLANTS WARRIORS
+## The game was based on the famous game Plants Vs Zombies.
+## USAGE
 The game tests the abilities of the players, where the player chooses which plant to shoot to kill the zombies.
 The zombies veer in towards the plants randomly, which makes the player have quick reflexes to survive.
 For each dead zombie the player earns points.
