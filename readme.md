@@ -12,6 +12,6 @@ The zombies walk straight towards the plants, and increase speed when the player
 Some problems may arise, after all this is the Beta version and you jockey was chosen to face the zombies.
 So be quick on the keyboard and KILL THEM ALL.
 # Enjoy the Game !!
-Play https://nettotkm.github.io/-Plants-Warriors/
+Play http://nettotkm.github.io/Plants-Warriors-The-Game
 
 
